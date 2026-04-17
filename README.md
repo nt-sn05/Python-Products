@@ -209,35 +209,3 @@ stock < 5
 **Focus:**
 
 * real inventory logic
-
----
-
-# 🧠 Qanday yondashish kerak?
-
-### Har bir taskda o‘zingdan so‘ra:
-
-* **Time complexity** → O(n)? O(n²)?
-* **Readability vs performance**
-* **Edge cases**:
-
-  * empty list
-  * missing fields
-  * None values
-
----
-
-# 🔥 Mini Challenge (optional)
-
-Oxirida:
-
-* shu 15 taskni **bitta service class ichida** implement qil:
-
-```python
-class ProductService:
-    ...
-```
-
-Bu seni:
-
-* real backend thinkingga olib kiradi
-* keyingi step → FastAPI endpointlar
